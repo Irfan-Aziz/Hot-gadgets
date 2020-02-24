@@ -1,0 +1,36 @@
+.container{
+    margin-top: 100px;
+}
+.bg-white{
+    background-color: white;
+}
+.buy-now{
+    background-color: black;
+    color: white;
+    
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.link{
+    text-align: right;
+    text-decoration: none;
+    color: #FF9D00;
+    float:right;
+}
+.position{
+    text-align: center;
+}
+.container2{
+    margin-top: 50px;
+}
+.underline{
+    height: 5px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 3px;
+}
+.perfume{
+    margin-bottom: 20px;
+}
